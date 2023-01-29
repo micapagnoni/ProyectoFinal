@@ -1,0 +1,95 @@
+body {
+    background-color: #900C3F!important;
+}
+
+
+#col_izq {
+    padding: 20px;
+    background-color: #DAF7A6;
+    color: grey;
+    
+}
+
+/** .img {
+    display: flex;
+    justify-content: center;
+  } */
+
+
+.titulo {
+    font-family: 'Anton', sans-serif;
+    font-size: 35px;
+    
+    /** justify-content: center; 
+    padding: 10px;
+    font-family: 'Unbounded', cursive; */
+}
+
+.barra {
+    height: 5px;
+    background-color: #900C3F;
+    width: 135 px;
+}
+
+.titulo_contenido {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.egreso {
+    font-weight:bold;
+
+}
+
+#col_der {
+    padding: 20px;
+    color: white;
+    padding: 80px;
+}
+
+.recuadros {
+    font-size: 20px;
+    padding: 5px;
+    background-color: #DAF7A6;
+    color: #900C3F;
+}
+
+.titulo_negrita {
+    font-weight: bold
+}
+
+/** ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 10px
+  }
+
+  li:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: FontAwesome;
+    content: "\f058";
+    color: green;
+  } */
+
+
+  .ul {
+      list-style-type: none;
+      padding-left: 20px;
+  }
+
+ .li {
+      position: relative;            
+      margin-bottom: 10px;
+  }
+
+#ExperienciaLaboral {
+    display: none;
+}
+
