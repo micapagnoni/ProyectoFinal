@@ -7,22 +7,13 @@ body {
     padding: 20px;
     background-color: #DAF7A6;
     color: grey;
-    
 }
-
-/** .img {
-    display: flex;
-    justify-content: center;
-  } */
 
 
 .titulo {
     font-family: 'Anton', sans-serif;
     font-size: 35px;
     
-    /** justify-content: center; 
-    padding: 10px;
-    font-family: 'Unbounded', cursive; */
 }
 
 .barra {
@@ -57,26 +48,6 @@ body {
 .titulo_negrita {
     font-weight: bold
 }
-
-/** ul {
-    list-style-type: none;
-    padding-left: 20px;
-}
-
-li {
-    position: relative;
-    padding-left: 20px;
-    margin-bottom: 10px
-  }
-
-  li:before {
-    position: absolute;
-    top: 0;
-    left: 0;
-    font-family: FontAwesome;
-    content: "\f058";
-    color: green;
-  } */
 
 
   .ul {
